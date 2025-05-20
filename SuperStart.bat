@@ -1,0 +1,2 @@
+@echo off 
+start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 "-mod=@CF;@BaseBuildingPlus;@VPPAdminTools;@PentagonServerMod;@Code Lock;@VanillaPlusPlusMap;@Community-Online-Tools;@Dabs Framework;" -maxMem=12000 -cpuCount=8 -profiles=profiles "-BEpath=C:\DISK D\Programms\Steam\steamapps\common\DayZServer\battleye"
